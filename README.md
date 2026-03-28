@@ -1,7 +1,5 @@
 # Numerical Lab
-
-# README.md
-
+---
 # Numerical Approximation Techniques
 
 This repository contains a Jupyter Notebook (`Lab2.ipynb`) that explores and implements various numerical approximation techniques for estimating the area under a curve without using traditional integration methods.
@@ -49,12 +47,7 @@ pip install numpy matplotlib
 ├── Lab2.ipynb
 └── README.md
 ```
-
-## License
-This project is licensed for educational purposes. Feel free to modify and use it for learning or academic assignments.
-
 ---
-
 *Created as part of a study on numerical approximation techniques for numerical analysis.*
 
 
